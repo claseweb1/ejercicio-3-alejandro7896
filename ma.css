@@ -1,0 +1,82 @@
+body{
+  font-family: Arial;
+}
+.arriba{
+  shape-image-threshold: 100%;
+  background-color: #a12aeb;
+  font-family: Arial;
+  color: white;
+  float: top;
+}
+.h1{
+  margin-left: 10%;
+}
+.abajo{
+  background-color: #3695f5;
+  text-align: center;
+  color: white;
+  float: no
+}
+.derecha{
+  text-align: center;
+  background-color: #3695f5;
+  column-rule-style: dashed;
+  margin-right: : 2%;
+  position: relative;
+  size: 20%;
+  color: white;
+  position: relative;
+  margin-top: 15px;
+  margin-right: 0%;
+  margin-left: auto;
+  padding: 0px;
+  width: 300px;
+  float:right;
+}
+.center{
+  color: black;
+  text-align: justify;
+  position: relative;
+  position: sticky;
+}
+.izquierda{
+  color: white;
+  background-position: left;
+  position: sticky;
+  resize: horizontal;
+  padding: 0px;
+  width: 300px;
+  margin: 20px;
+
+}
+.uno{
+  background-color: #2696f5;
+  border: 1px solid #3695f5;
+  margin: 0 0 10px;
+  overflow: hidden;
+  padding: 10px;
+}
+.dos{
+  background-color: #2696f5;
+  border: 1px solid #3695f5;
+  margin: 0 0 10px;
+  overflow: hidden;
+  padding: 10px;
+
+}
+.tres{
+  background-color: #2696f5;
+  border: 1px solid #3695f5;
+  margin: 0 0 10px;
+  overflow: hidden;
+  padding: 10px;
+
+}
+.cuatro{
+  background-color: #2696f5;
+  border: 1px solid #3695f5;
+  margin: 0 0 10px;
+  overflow: hidden;
+  padding: 10px;
+
+}
